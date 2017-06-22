@@ -93,7 +93,7 @@ pygame.display.flip()
 colors = {'bronx':(2,120,120),'brooklyn':(128,22,56),'manhattan':(194,35,38),'queens':(243,115,56),'staten_island':(253,182,50)}
 boroughs = {}
 for borough in colors:
-#for borough in ['bronx','brooklyn','manhattan','queens','staten_island']:
+  #for borough in ['bronx','brooklyn','manhattan','queens','staten_island']:
   boroughs[borough] = normalize_points(rc.getCrimesList(borough),width,height,913357,121250,1067226,271820)
   #print(boroughs[borough])
 

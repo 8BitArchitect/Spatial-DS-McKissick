@@ -1,0 +1,501 @@
+{
+    "bbox": [
+        -177.7587,
+        -32.1082,
+        16.54,
+        178.7352,
+        51.8486,
+        434
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    126.5217,
+                    1.8929,
+                    45
+                ],
+                "type": "Point"
+            },
+            "id": "usc000sxh8",
+            "properties": {
+                "alert": "green",
+                "cdi": 5.4,
+                "code": "c000sxh8",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000sxh8&format=geojson",
+                "dmin": 1.397,
+                "felt": 11,
+                "gap": 18,
+                "ids": ",pt14319000,at00nf270v,usc000sxh8,atat00nf270v,gcmt20141115023140,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 6.14,
+                "net": "us",
+                "nst": null,
+                "place": "154km NW of Kota Ternate, Indonesia",
+                "rms": 0.71,
+                "sig": 781,
+                "sources": ",pt,at,us,at,gcmt,",
+                "status": "reviewed",
+                "time": 1416018701720,
+                "title": "M 7.1 - 154km NW of Kota Ternate, Indonesia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 480,
+                "updated": 1480720736153,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000sxh8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -177.7587,
+                    -19.6903,
+                    434
+                ],
+                "type": "Point"
+            },
+            "id": "usc000stdc",
+            "properties": {
+                "alert": "green",
+                "cdi": 2.7,
+                "code": "c000stdc",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000stdc&format=geojson",
+                "dmin": 4.415,
+                "felt": 2,
+                "gap": 13,
+                "ids": ",at00nedjbm,usc000stdc,gcmt20141101185722,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 6.41,
+                "net": "us",
+                "nst": null,
+                "place": "144km NE of Ndoi Island, Fiji",
+                "rms": 0.84,
+                "sig": 776,
+                "sources": ",at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1414868242380,
+                "title": "M 7.1 - 144km NE of Ndoi Island, Fiji",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -720,
+                "updated": 1480720898451,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000stdc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1225,
+                    12.5262,
+                    40
+                ],
+                "type": "Point"
+            },
+            "id": "usb000slwn",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 7.5,
+                "code": "b000slwn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000slwn&format=geojson",
+                "dmin": 1.078,
+                "felt": 416,
+                "gap": 18,
+                "ids": ",usb000slwn,pt14287000,at00ndf1fr,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 6.97,
+                "net": "us",
+                "nst": null,
+                "place": "74km S of Intipuca, El Salvador",
+                "rms": 0.7,
+                "sig": 1132,
+                "sources": ",us,pt,at,",
+                "status": "reviewed",
+                "time": 1413258694460,
+                "title": "M 7.3 - 74km S of Intipuca, El Salvador",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -360,
+                "updated": 1488653185209,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000slwn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.8112,
+                    -32.1082,
+                    16.54
+                ],
+                "type": "Point"
+            },
+            "id": "usb000sk6k",
+            "properties": {
+                "alert": "green",
+                "cdi": 1,
+                "code": "b000sk6k",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000sk6k&format=geojson",
+                "dmin": 5.127,
+                "felt": 0,
+                "gap": 22,
+                "ids": ",pt14282000,at00nd5nka,usb000sk6k,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "Southern East Pacific Rise",
+                "rms": 0.43,
+                "sig": 754,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1412820871440,
+                "title": "M 7.0 - Southern East Pacific Rise",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -420,
+                "updated": 1480721212341,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000sk6k"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    178.7352,
+                    51.8486,
+                    109
+                ],
+                "type": "Point"
+            },
+            "id": "usc000rki5",
+            "properties": {
+                "alert": "green",
+                "cdi": 5.4,
+                "code": "c000rki5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000rki5&format=geojson",
+                "dmin": 0.133,
+                "felt": 4,
+                "gap": 22,
+                "ids": ",at00n7n3cm,pt14174004,usc000rki5,ak11300221,",
+                "mag": 7.9,
+                "magType": "mww",
+                "mmi": 8.1,
+                "net": "us",
+                "nst": null,
+                "place": "19km SE of Little Sitkin Island, Alaska",
+                "rms": 0.71,
+                "sig": 962,
+                "sources": ",at,pt,us,ak,",
+                "status": "reviewed",
+                "time": 1403556789700,
+                "title": "M 7.9 - 19km SE of Little Sitkin Island, Alaska",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -540,
+                "updated": 1489080811804,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rki5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.0241,
+                    -6.7547,
+                    43.37
+                ],
+                "type": "Point"
+            },
+            "id": "usb000pr89",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "b000pr89",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000pr89&format=geojson",
+                "dmin": 3.82,
+                "felt": null,
+                "gap": 16,
+                "ids": ",pt14109002,at00n4a5er,usb000pr89,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": 7.69,
+                "net": "us",
+                "nst": null,
+                "place": "70km SW of Panguna, Papua New Guinea",
+                "rms": 1.25,
+                "sig": 865,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1397914080810,
+                "title": "M 7.5 - 70km SW of Panguna, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1486511074795,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000pr89"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.9723,
+                    17.397,
+                    24
+                ],
+                "type": "Point"
+            },
+            "id": "usb000pq41",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 7.7,
+                "code": "b000pq41",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000pq41&format=geojson",
+                "dmin": 2.25,
+                "felt": 494,
+                "gap": 46,
+                "ids": ",pt14108001,usb000pq41,at00n48dhn,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": 6.75,
+                "net": "us",
+                "nst": null,
+                "place": "33km ESE of Petatlan, Mexico",
+                "rms": 1.2,
+                "sig": 1178,
+                "sources": ",pt,us,at,",
+                "status": "reviewed",
+                "time": 1397831244920,
+                "title": "M 7.2 - 33km ESE of Petatlan, Mexico",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,trump,",
+                "tz": -300,
+                "updated": 1489163295328,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000pq41"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    162.0511,
+                    -11.4633,
+                    39
+                ],
+                "type": "Point"
+            },
+            "id": "usc000piqj",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "c000piqj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000piqj&format=geojson",
+                "dmin": 2.885,
+                "felt": null,
+                "gap": 17,
+                "ids": ",usc000piqj,pt14103001,at00n3yz0j,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": 7.02,
+                "net": "us",
+                "nst": null,
+                "place": "112km S of Kirakira, Solomon Islands",
+                "rms": 1,
+                "sig": 842,
+                "sources": ",us,pt,at,",
+                "status": "reviewed",
+                "time": 1397392579230,
+                "title": "M 7.4 - 112km S of Kirakira, Solomon Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1488993253121,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000piqj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    162.1481,
+                    -11.2701,
+                    22.56
+                ],
+                "type": "Point"
+            },
+            "id": "usc000phx5",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "c000phx5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000phx5&format=geojson",
+                "dmin": 2.828,
+                "felt": null,
+                "gap": 13,
+                "ids": ",usc000phx5,pt14102002,at00n3xpk9,",
+                "mag": 7.6,
+                "magType": "mww",
+                "mmi": 7.55,
+                "net": "us",
+                "nst": null,
+                "place": "93km SSE of Kirakira, Solomon Islands",
+                "rms": 0.71,
+                "sig": 889,
+                "sources": ",us,pt,at,",
+                "status": "reviewed",
+                "time": 1397333679300,
+                "title": "M 7.6 - 93km SSE of Kirakira, Solomon Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1486511067580,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000phx5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.0485,
+                    -6.5858,
+                    60.53
+                ],
+                "type": "Point"
+            },
+            "id": "usc000pft9",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "c000pft9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000pft9&format=geojson",
+                "dmin": 3.729,
+                "felt": null,
+                "gap": 21,
+                "ids": ",pt14101001,at00n3unei,usc000pft9,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 7.32,
+                "net": "us",
+                "nst": null,
+                "place": "56km WSW of Panguna, Papua New Guinea",
+                "rms": 0.88,
+                "sig": 776,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1397200043130,
+                "title": "M 7.1 - 56km WSW of Panguna, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1487196682669,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000pft9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.4931,
+                    -20.5709,
+                    22.4
+                ],
+                "type": "Point"
+            },
+            "id": "usc000p27i",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 9.1,
+                "code": "c000p27i",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000p27i&format=geojson",
+                "dmin": 1.029,
+                "felt": 76,
+                "gap": 44,
+                "ids": ",pt14093001,at00n3fow6,usc000p27i,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": 7.05,
+                "net": "us",
+                "nst": null,
+                "place": "53km SW of Iquique, Chile",
+                "rms": 0.82,
+                "sig": 981,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1396492993110,
+                "title": "M 7.7 - 53km SW of Iquique, Chile",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": -300,
+                "updated": 1486511054246,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000p27i"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.7691,
+                    -19.6097,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "usc000nzvd",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 8.5,
+                "code": "c000nzvd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000nzvd&format=geojson",
+                "dmin": 0.609,
+                "felt": 300,
+                "gap": 23,
+                "ids": ",pt14091000,at00n3dm1y,usc000nzvd,",
+                "mag": 8.2,
+                "magType": "mww",
+                "mmi": 8.01,
+                "net": "us",
+                "nst": null,
+                "place": "94km NW of Iquique, Chile",
+                "rms": 0.66,
+                "sig": 1289,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1396396007260,
+                "title": "M 8.2 - 94km NW of Iquique, Chile",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,trump,",
+                "tz": -300,
+                "updated": 1492629438112,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 12,
+        "generated": 1498104065000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2014-1-01&endtime=2014-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

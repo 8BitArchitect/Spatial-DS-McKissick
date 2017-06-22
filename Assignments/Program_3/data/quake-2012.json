@@ -1,0 +1,581 @@
+{
+    "bbox": [
+        -132.101,
+        -35.2,
+        13,
+        167.133,
+        52.788,
+        583.2
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.895,
+                    13.988,
+                    24
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jv5f",
+            "properties": {
+                "alert": null,
+                "cdi": 8.9,
+                "code": "p000jv5f",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jv5f&format=geojson",
+                "dmin": null,
+                "felt": 842,
+                "gap": 25.5,
+                "ids": ",usb000dlwm,choy20121107163546,usp000jv5f,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 751,
+                "place": "offshore Guatemala",
+                "rms": 1.27,
+                "sig": 1592,
+                "sources": ",us,choy,us,",
+                "status": "reviewed",
+                "time": 1352306146930,
+                "title": "M 7.4 - offshore Guatemala",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1481138034636,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jv5f"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.101,
+                    52.788,
+                    14
+                ],
+                "type": "Point"
+            },
+            "id": "usp000juhz",
+            "properties": {
+                "alert": null,
+                "cdi": 7.9,
+                "code": "p000juhz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000juhz&format=geojson",
+                "dmin": null,
+                "felt": 2066,
+                "gap": 42.7,
+                "ids": ",usp000juhz,usb000df7n,choy20121028030408,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 807,
+                "place": "Haida Gwaii, Canada",
+                "rms": 0.99,
+                "sig": 1726,
+                "sources": ",us,us,choy,",
+                "status": "reviewed",
+                "time": 1351393448820,
+                "title": "M 7.8 - Haida Gwaii, Canada",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1486510897669,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000juhz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.362,
+                    1.929,
+                    170
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jta1",
+            "properties": {
+                "alert": null,
+                "cdi": 6.7,
+                "code": "p000jta1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jta1&format=geojson",
+                "dmin": null,
+                "felt": 599,
+                "gap": 15.5,
+                "ids": ",us2012gdap,choy20120930163136,usp000jta1,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 934,
+                "place": "Colombia",
+                "rms": 0.87,
+                "sig": 1221,
+                "sources": ",us,choy,us,",
+                "status": "reviewed",
+                "time": 1349022695970,
+                "title": "M 7.3 - Colombia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1435683544000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jta1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.315,
+                    10.085,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jrsw",
+            "properties": {
+                "alert": null,
+                "cdi": 8.2,
+                "code": "p000jrsw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jrsw&format=geojson",
+                "dmin": null,
+                "felt": 813,
+                "gap": 34.3,
+                "ids": ",usp000jrsw,usc000cfsd,choy20120905144207,atlas20120905144207,",
+                "mag": 7.6,
+                "magType": "mww",
+                "mmi": 7.6,
+                "net": "us",
+                "nst": 703,
+                "place": "Costa Rica",
+                "rms": 1.2,
+                "sig": 1555,
+                "sources": ",us,us,choy,atlas,",
+                "status": "reviewed",
+                "time": 1346856127800,
+                "title": "M 7.6 - Costa Rica",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230376424,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jrsw"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.638,
+                    10.811,
+                    28
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jr83",
+            "properties": {
+                "alert": null,
+                "cdi": 7.9,
+                "code": "p000jr83",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jr83&format=geojson",
+                "dmin": null,
+                "felt": 287,
+                "gap": 10.2,
+                "ids": ",usp000jr83,usc000cc5m,choy20120831124733,",
+                "mag": 7.6,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 682,
+                "place": "Philippine Islands region",
+                "rms": 1.02,
+                "sig": 1115,
+                "sources": ",us,us,choy,",
+                "status": "reviewed",
+                "time": 1346417253380,
+                "title": "M 7.6 - Philippine Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1486510879827,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jr83"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.59,
+                    12.139,
+                    28
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jqvm",
+            "properties": {
+                "alert": null,
+                "cdi": 5.2,
+                "code": "p000jqvm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jqvm&format=geojson",
+                "dmin": null,
+                "felt": 334,
+                "gap": 37,
+                "ids": ",usp000jqvm,usc000c7yw,choy20120827043719,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 417,
+                "place": "off the coast of El Salvador",
+                "rms": 1.3,
+                "sig": 994,
+                "sources": ",us,us,choy,",
+                "status": "reviewed",
+                "time": 1346042239430,
+                "title": "M 7.3 - off the coast of El Salvador",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1486510866605,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jqvm"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.064,
+                    49.8,
+                    583.2
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jq9h",
+            "properties": {
+                "alert": null,
+                "cdi": 6.7,
+                "code": "p000jq9h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jq9h&format=geojson",
+                "dmin": null,
+                "felt": 43,
+                "gap": 13.8,
+                "ids": ",usp000jq9h,usc000bz29,choy20120814025938,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 862,
+                "place": "Sea of Okhotsk",
+                "rms": 0.83,
+                "sig": 941,
+                "sources": ",us,us,choy,",
+                "status": "reviewed",
+                "time": 1344913178460,
+                "title": "M 7.7 - Sea of Okhotsk",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1458078676743,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jq9h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.104,
+                    28.696,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jhr6",
+            "properties": {
+                "alert": null,
+                "cdi": 6.8,
+                "code": "p000jhr6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jhr6&format=geojson",
+                "dmin": null,
+                "felt": 362,
+                "gap": 95.9,
+                "ids": ",usc00091a1,choy20120412071548,usp000jhr6,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 474,
+                "place": "Baja California, Mexico",
+                "rms": 1.18,
+                "sig": 1000,
+                "sources": ",us,choy,us,",
+                "status": "reviewed",
+                "time": 1334214948500,
+                "title": "M 7.0 - Baja California, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1435683543952,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jhr6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    92.463,
+                    0.802,
+                    25.1
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jhjb",
+            "properties": {
+                "alert": "green",
+                "cdi": 9.1,
+                "code": "p000jhjb",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jhjb&format=geojson",
+                "dmin": null,
+                "felt": 196,
+                "gap": 14.9,
+                "ids": ",usc00090da,usp000jhjb,",
+                "mag": 8.2,
+                "magType": "mwc",
+                "mmi": 4.55,
+                "net": "us",
+                "nst": 341,
+                "place": "off the west coast of northern Sumatra",
+                "rms": 0.9,
+                "sig": 1213,
+                "sources": ",us,us,",
+                "status": "reviewed",
+                "time": 1334140990850,
+                "title": "M 8.2 - off the west coast of northern Sumatra",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,impact-text,losspager,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1457024090905,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jhjb"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    93.063,
+                    2.327,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "official20120411083836720_20",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 9.1,
+                "code": "20120411083836720_20",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20120411083836720_20&format=geojson",
+                "dmin": null,
+                "felt": 3436,
+                "gap": 16.6,
+                "ids": ",usp000jhh2,usc000905e,official20120411083836720_20,duputel201204110838a,",
+                "mag": 8.6,
+                "magType": "mw",
+                "mmi": 7.07,
+                "net": "official",
+                "nst": 499,
+                "place": "off the west coast of northern Sumatra",
+                "rms": 1.33,
+                "sig": 2048,
+                "sources": ",us,us,official,duputel,",
+                "status": "reviewed",
+                "time": 1334133516720,
+                "title": "M 8.6 - off the west coast of northern Sumatra",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,trump-origin,trump-phase-data,",
+                "tz": null,
+                "updated": 1486510851586,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20120411083836720_20"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.217,
+                    -35.2,
+                    40.7
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jgsw",
+            "properties": {
+                "alert": null,
+                "cdi": 7.2,
+                "code": "p000jgsw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jgsw&format=geojson",
+                "dmin": null,
+                "felt": 1126,
+                "gap": 15.2,
+                "ids": ",usp000jgsw,usc0008pwq,choy20120325223706,duputel201203252237a,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 553,
+                "place": "Maule, Chile",
+                "rms": null,
+                "sig": 1496,
+                "sources": ",us,us,choy,duputel,",
+                "status": "reviewed",
+                "time": 1332715026000,
+                "title": "M 7.1 - Maule, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1481139314178,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jgsw"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.231,
+                    16.493,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jghj",
+            "properties": {
+                "alert": null,
+                "cdi": 9.1,
+                "code": "p000jghj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jghj&format=geojson",
+                "dmin": null,
+                "felt": 2552,
+                "gap": 37.9,
+                "ids": ",usp000jghj,usc0008m6h,choy20120320180247,duputel201203201802a,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 672,
+                "place": "Oaxaca, Mexico",
+                "rms": 0.98,
+                "sig": 1752,
+                "sources": ",us,us,choy,duputel,",
+                "status": "reviewed",
+                "time": 1332266567440,
+                "title": "M 7.4 - Oaxaca, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1486510843869,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jghj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.133,
+                    -17.827,
+                    23
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jeag",
+            "properties": {
+                "alert": null,
+                "cdi": 5,
+                "code": "p000jeag",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jeag&format=geojson",
+                "dmin": null,
+                "felt": 34,
+                "gap": 12,
+                "ids": ",usb0007uiv,choy20120202133440,usp000jeag,duputel201202021334a,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 573,
+                "place": "Vanuatu",
+                "rms": 1.07,
+                "sig": 793,
+                "sources": ",us,choy,us,duputel,",
+                "status": "reviewed",
+                "time": 1328189680650,
+                "title": "M 7.1 - Vanuatu",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1481139623533,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jeag"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    93.21,
+                    2.433,
+                    19
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jdar",
+            "properties": {
+                "alert": null,
+                "cdi": 4.1,
+                "code": "p000jdar",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jdar&format=geojson",
+                "dmin": null,
+                "felt": 99,
+                "gap": 17,
+                "ids": ",usc0007ir5,usp000jdar,choy20120110183659,duputel201201101837a,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 443,
+                "place": "off the west coast of northern Sumatra",
+                "rms": 1.09,
+                "sig": 838,
+                "sources": ",us,us,choy,duputel,",
+                "status": "reviewed",
+                "time": 1326220619080,
+                "title": "M 7.2 - off the west coast of northern Sumatra",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1486510812958,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jdar"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 14,
+        "generated": 1498104064000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2012-1-01&endtime=2012-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

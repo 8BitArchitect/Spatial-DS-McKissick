@@ -1,0 +1,461 @@
+{
+    "bbox": [
+        -125.953,
+        -19.987,
+        11,
+        153.474,
+        41.292,
+        525
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    144.896,
+                    38.107,
+                    11
+                ],
+                "type": "Point"
+            },
+            "id": "usp000e462",
+            "properties": {
+                "alert": null,
+                "cdi": 4.1,
+                "code": "p000e462",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000e462&format=geojson",
+                "dmin": null,
+                "felt": 271,
+                "gap": 21.4,
+                "ids": ",usp000e462,us2005fkbr,choy20051114213851,gcmtc200511142138a,gcmt20051114213851,duputel200511142138a,iscgem7720514,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 699,
+                "place": "off the east coast of Honshu, Japan",
+                "rms": 0.86,
+                "sig": 865,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1132004331420,
+                "title": "M 7.0 - off the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478740469675,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e462"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.588,
+                    34.539,
+                    26
+                ],
+                "type": "Point"
+            },
+            "id": "usp000e12e",
+            "properties": {
+                "alert": null,
+                "cdi": 7.9,
+                "code": "p000e12e",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000e12e&format=geojson",
+                "dmin": null,
+                "felt": 613,
+                "gap": 21.1,
+                "ids": ",us2005dyae,usp000e12e,choy20051008035040,gcmtc200510080350a,gcmt20051008035040,duputel200510080350a,atlas20051008035040,iscgem7703077,",
+                "mag": 7.6,
+                "magType": "mwc",
+                "mmi": 9.2,
+                "net": "us",
+                "nst": 724,
+                "place": "Pakistan",
+                "rms": 0.9,
+                "sig": 1373,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1128743440800,
+                "title": "M 7.6 - Pakistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229887380,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e12e"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.398,
+                    -5.678,
+                    115
+                ],
+                "type": "Point"
+            },
+            "id": "usp000e09h",
+            "properties": {
+                "alert": null,
+                "cdi": 7.9,
+                "code": "p000e09h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000e09h&format=geojson",
+                "dmin": null,
+                "felt": 322,
+                "gap": 26.2,
+                "ids": ",us2005dlad,usp000e09h,choy20050926015537,gcmtc200509260155a,gcmt20050926015537,duputel200509260155a,iscgem7951634,atlas20050926015538,",
+                "mag": 7.5,
+                "magType": "mwb",
+                "mmi": 7.4,
+                "net": "us",
+                "nst": 696,
+                "place": "northern Peru",
+                "rms": 0.88,
+                "sig": 1120,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1127699737670,
+                "title": "M 7.5 - northern Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492121958370,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e09h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.474,
+                    -4.539,
+                    90
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dz2j",
+            "properties": {
+                "alert": null,
+                "cdi": 4.9,
+                "code": "p000dz2j",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dz2j&format=geojson",
+                "dmin": null,
+                "felt": 6,
+                "gap": 20,
+                "ids": ",usp000dz2j,us2005cuah,choy20050909072643,gcmtc200509090726a,gcmt20050909072643,duputel200509090726a,atlas20050909072644,iscgem7519857,",
+                "mag": 7.6,
+                "magType": "mwc",
+                "mmi": 7.4,
+                "net": "us",
+                "nst": 502,
+                "place": "New Ireland region, Papua New Guinea",
+                "rms": 1.04,
+                "sig": 892,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1126250803730,
+                "title": "M 7.6 - New Ireland region, Papua New Guinea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229882090,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dz2j"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.039,
+                    38.276,
+                    36
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dxe2",
+            "properties": {
+                "alert": null,
+                "cdi": 7.1,
+                "code": "p000dxe2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dxe2&format=geojson",
+                "dmin": null,
+                "felt": 508,
+                "gap": 19.6,
+                "ids": ",usp000dxe2,atlas20050816024600,atlas20050816024628,us2005bvae,choy20050816024628,gcmtc200508160246a,gcmt20050816024628,duputel200508160246a,iscgem7396432,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": 7.4,
+                "net": "us",
+                "nst": 698,
+                "place": "near the east coast of Honshu, Japan",
+                "rms": 0.95,
+                "sig": 1158,
+                "sources": ",us,atlas,atlas,us,choy,gcmt,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1124160388400,
+                "title": "M 7.2 - near the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229879721,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dxe2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    92.19,
+                    7.92,
+                    16
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dvtc",
+            "properties": {
+                "alert": null,
+                "cdi": 4.3,
+                "code": "p000dvtc",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dvtc&format=geojson",
+                "dmin": null,
+                "felt": 25,
+                "gap": 26.4,
+                "ids": ",us2005axay,choy20050724154206,gcmtc200507241542a,usp000dvtc,gcmt20050724154206,duputel200507241542a,atlas20050724154206,iscgem7364938,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": 6.1,
+                "net": "us",
+                "nst": 636,
+                "place": "Nicobar Islands, India region",
+                "rms": 0.93,
+                "sig": 808,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1122219726210,
+                "title": "M 7.2 - Nicobar Islands, India region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229873839,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dvtc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -125.953,
+                    41.292,
+                    16
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dt25",
+            "properties": {
+                "alert": null,
+                "cdi": 5,
+                "code": "p000dt25",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dt25&format=geojson",
+                "dmin": null,
+                "felt": 3009,
+                "gap": 31.4,
+                "ids": ",usp000dt25,us2005ziae,iscgem7143782,choy20050615025053,gcmtc200506150250a,gcmt20050615025053,duputel200506150250a,nc21462362,atlas20050615025053,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": 3.6,
+                "net": "us",
+                "nst": 420,
+                "place": "off the coast of Northern California",
+                "rms": 1.2,
+                "sig": 1298,
+                "sources": ",us,us,iscgem,choy,gcmt,gcmt,duputel,nc,atlas,",
+                "status": "reviewed",
+                "time": 1118803854190,
+                "title": "M 7.2 - off the coast of Northern California",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,trump-origin,trump-shakemap,",
+                "tz": null,
+                "updated": 1492121941514,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dt25"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.197,
+                    -19.987,
+                    115.6
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dsw1",
+            "properties": {
+                "alert": null,
+                "cdi": 6.9,
+                "code": "p000dsw1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dsw1&format=geojson",
+                "dmin": null,
+                "felt": 101,
+                "gap": 16.1,
+                "ids": ",us2005zgbu,usp000dsw1,choy20050613224433,gcmtc200506132244a,gcmt20050613224433,duputel200506132244a,iscgem7143508,atlas20050613224432,",
+                "mag": 7.8,
+                "magType": "mwb",
+                "mmi": 8.2,
+                "net": "us",
+                "nst": 714,
+                "place": "Tarapaca, Chile",
+                "rms": 1.01,
+                "sig": 1006,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1118702673900,
+                "title": "M 7.8 - Tarapaca, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492121941030,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dsw1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    97.108,
+                    2.085,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "official20050328160936530_30",
+            "properties": {
+                "alert": null,
+                "cdi": 9.1,
+                "code": "20050328160936530_30",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20050328160936530_30&format=geojson",
+                "dmin": null,
+                "felt": 1650,
+                "gap": 22.1,
+                "ids": ",us2005weax,usp000dk85,choy20050328160936,gcmtc200503281609a,official20050328160936530_30,gcmt20050328160936,duputel200503281609a,atlas20050328160936,iscgem7486110,",
+                "mag": 8.6,
+                "magType": "mww",
+                "mmi": 9,
+                "net": "official",
+                "nst": 510,
+                "place": "northern Sumatra, Indonesia",
+                "rms": 0.91,
+                "sig": 2048,
+                "sources": ",us,us,choy,gcmt,official,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1112026176530,
+                "title": "M 8.6 - northern Sumatra, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229848627,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20050328160936530_30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    129.933,
+                    -6.527,
+                    201.7
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dhc1",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000dhc1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dhc1&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 18.1,
+                "ids": ",choy20050302104212,gcmtc200503021042a,usp000dhc1,gcmt20050302104212,duputel200503021042a,iscgem7736896,",
+                "mag": 7.1,
+                "magType": "mwb",
+                "mmi": null,
+                "net": "us",
+                "nst": 569,
+                "place": "Banda Sea",
+                "rms": 1.16,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1109760132230,
+                "title": "M 7.1 - Banda Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478739732363,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dhc1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    123.337,
+                    5.293,
+                    525
+                ],
+                "type": "Point"
+            },
+            "id": "usp000dfj2",
+            "properties": {
+                "alert": null,
+                "cdi": 7.2,
+                "code": "p000dfj2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000dfj2&format=geojson",
+                "dmin": null,
+                "felt": 14,
+                "gap": 26.4,
+                "ids": ",us2005uda2,choy20050205122318,gcmtc200502051223a,usp000dfj2,gcmt20050205122318,duputel200502051223a,iscgem7470115,atlas20050205122319,",
+                "mag": 7.1,
+                "magType": "mwc",
+                "mmi": 3.2,
+                "net": "us",
+                "nst": 640,
+                "place": "Celebes Sea",
+                "rms": 1.14,
+                "sig": 786,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1107606198940,
+                "title": "M 7.1 - Celebes Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492121915775,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dfj2"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 11,
+        "generated": 1498104061000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2005-1-01&endtime=2005-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,621 @@
+{
+    "bbox": [
+        -179.575,
+        -36.813,
+        10,
+        167.17,
+        57.078,
+        178.1
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    90.541,
+                    35.946,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp000asvm",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000asvm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000asvm&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",duputel111401b,usp000asvm,choy20011114092610,gcmtm111401b,gcmt20011114092610,atlas20011114092612,iscgem2331800,",
+                "mag": 7.8,
+                "magType": "mwc",
+                "mmi": 9.1,
+                "net": "us",
+                "nst": 368,
+                "place": "southern Qinghai, China",
+                "rms": 1.07,
+                "sig": 936,
+                "sources": ",duputel,us,choy,gcmt,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1005729970010,
+                "title": "M 7.8 - southern Qinghai, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229570105,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000asvm"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.196,
+                    -5.912,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000arz5",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000arz5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000arz5&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20011031091020,gcmtc103101c,usp000arz5,gcmt20011031091020,duputel103101c,atlas20011031091021,iscgem2299018,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": 6.4,
+                "net": "us",
+                "nst": 254,
+                "place": "New Britain region, Papua New Guinea",
+                "rms": 0.92,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1004519420000,
+                "title": "M 7.0 - New Britain region, Papua New Guinea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229567067,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000arz5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    123.907,
+                    -4.102,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000ar78",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000ar78",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000ar78&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20011019032844,gcmtc101901a,usp000ar78,gcmt20011019032844,duputel101901a,atlas20011019032845,iscgem2158595,",
+                "mag": 7.5,
+                "magType": "mwc",
+                "mmi": 6,
+                "net": "us",
+                "nst": 234,
+                "place": "Banda Sea",
+                "rms": 1.14,
+                "sig": 865,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1003462124460,
+                "title": "M 7.5 - Banda Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229564854,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ar78"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.98,
+                    12.686,
+                    37
+                ],
+                "type": "Point"
+            },
+            "id": "usp000aqsu",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000aqsu",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000aqsu&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20011012150216,gcmtc101201e,usp000aqsu,gcmt20011012150216,duputel101201e,atlas20011012150218,iscgem2152976,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": 5.9,
+                "net": "us",
+                "nst": 482,
+                "place": "Guam region",
+                "rms": 1.15,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1002898936840,
+                "title": "M 7.0 - Guam region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229563652,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000aqsu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -179.575,
+                    -36.813,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000amsn",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000amsn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000amsn&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20010821065206,gcmtc082101b,usp000amsn,gcmt20010821065206,duputel082101b,iscgem2051928,",
+                "mag": 7.1,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 478,
+                "place": "east of the North Island of New Zealand",
+                "rms": 1.18,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 998376726250,
+                "title": "M 7.1 - east of the North Island of New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738611759,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000amsn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.077,
+                    -17.543,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000aj40",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000aj40",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000aj40&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",usp000aj40,choy20010707093843,gcmtc070701f,gcmt20010707093843,duputel070701f,atlas20010707093842,iscgem1907299,",
+                "mag": 7.6,
+                "magType": "mwc",
+                "mmi": 7.2,
+                "net": "us",
+                "nst": 398,
+                "place": "near the coast of southern Peru",
+                "rms": 1.15,
+                "sig": 889,
+                "sources": ",us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 994498723520,
+                "title": "M 7.6 - near the coast of southern Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229551958,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000aj40"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.641,
+                    -16.265,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "official20010623203314130_33",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "20010623203314130_33",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20010623203314130_33&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",usp000ah4q,choy20010623203314,gcmtm062301e,official20010623203314130_33,gcmt20010623203314,duputel062301e,atlas20010623203314,iscgem1893467,",
+                "mag": 8.4,
+                "magType": "mww",
+                "mmi": 8.5,
+                "net": "official",
+                "nst": 518,
+                "place": "near the coast of southern Peru",
+                "rms": 1.05,
+                "sig": 1086,
+                "sources": ",us,choy,gcmt,official,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 993328394130,
+                "title": "M 8.4 - near the coast of southern Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",finite-fault,focal-mechanism,general-header,impact-text,moment-tensor,origin,phase-data,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229547310,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20010623203314130_33"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -178.633,
+                    -29.666,
+                    178.1
+                ],
+                "type": "Point"
+            },
+            "id": "usp000afyg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000afyg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000afyg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20010603024157,gcmtc060301a,usp000afyg,gcmt20010603024157,duputel060301a,iscgem1858534,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 421,
+                "place": "Kermadec Islands, New Zealand",
+                "rms": 1.01,
+                "sig": 798,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 991536117160,
+                "title": "M 7.2 - Kermadec Islands, New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738205367,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000afyg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.249,
+                    1.271,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "usp000aa8b",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000aa8b",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000aa8b&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20010224072348,gcmtc022401a,usp000aa8b,gcmt20010224072348,duputel022401a,atlas20010224072349,iscgem2682392,",
+                "mag": 7.1,
+                "magType": "mwc",
+                "mmi": 7.3,
+                "net": "us",
+                "nst": 426,
+                "place": "Molucca Sea",
+                "rms": 1.05,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 982999428730,
+                "title": "M 7.1 - Molucca Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229522574,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000aa8b"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    102.562,
+                    -4.68,
+                    36
+                ],
+                "type": "Point"
+            },
+            "id": "usp000a9kc",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000a9kc",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000a9kc&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20010213192830,gcmtc021301d,usp000a9kc,gcmt20010213192830,duputel021301d,atlas20010213192831,iscgem2770811,",
+                "mag": 7.4,
+                "magType": "mwc",
+                "mmi": 6.4,
+                "net": "us",
+                "nst": 221,
+                "place": "southern Sumatra, Indonesia",
+                "rms": 1.31,
+                "sig": 842,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 982092510260,
+                "title": "M 7.4 - southern Sumatra, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229517988,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a9kc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    70.232,
+                    23.419,
+                    16
+                ],
+                "type": "Point"
+            },
+            "id": "usp000a8ds",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000a8ds",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000a8ds&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",usp000a8ds,choy20010126031640,gcmtm012601a,gcmt20010126031640,duputel012601a,atlas20010126031640,iscgem1763683,",
+                "mag": 7.7,
+                "magType": "mwc",
+                "mmi": 10,
+                "net": "us",
+                "nst": 472,
+                "place": "Gujarat, India",
+                "rms": 1.25,
+                "sig": 912,
+                "sources": ",us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 980479000500,
+                "title": "M 7.7 - Gujarat, India",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229499908,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a8ds"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.66,
+                    13.049,
+                    60
+                ],
+                "type": "Point"
+            },
+            "id": "usp000a7m5",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000a7m5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000a7m5&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",usp000a7m5,choy20010113173332,gcmtc011301c,gcmt20010113173332,duputel011301c,atlas20010113173331,iscgem1763440,",
+                "mag": 7.7,
+                "magType": "mwc",
+                "mmi": 7.8,
+                "net": "us",
+                "nst": 427,
+                "place": "offshore El Salvador",
+                "rms": 1.13,
+                "sig": 912,
+                "sources": ",us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 979407212380,
+                "title": "M 7.7 - offshore El Salvador",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229495705,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a7m5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -153.211,
+                    57.078,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000a7f2",
+            "properties": {
+                "alert": null,
+                "cdi": 4.2,
+                "code": "p000a7f2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000a7f2&format=geojson",
+                "dmin": null,
+                "felt": 27,
+                "gap": null,
+                "ids": ",us2001leak,choy20010110160244,gcmtc011001e,usp000a7f2,gcmt20010110160244,duputel011001e,iscgem1763392,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 549,
+                "place": "Kodiak Island region, Alaska",
+                "rms": 1.17,
+                "sig": 765,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 979142564230,
+                "title": "M 7.0 - Kodiak Island region, Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478737379029,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a7f2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.17,
+                    -14.928,
+                    103
+                ],
+                "type": "Point"
+            },
+            "id": "usp000a7cv",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000a7cv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000a7cv&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20010109164928,gcmtc010901g,usp000a7cv,gcmt20010109164928,duputel010901g,atlas20010109164929,iscgem1763372,",
+                "mag": 7.1,
+                "magType": "mwb",
+                "mmi": 6.2,
+                "net": "us",
+                "nst": 372,
+                "place": "Vanuatu",
+                "rms": 1.15,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 979058968000,
+                "title": "M 7.1 - Vanuatu",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229495126,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a7cv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.579,
+                    6.898,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000a70h",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000a70h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000a70h&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy20010101065704,gcmtc010101b,usp000a70h,gcmt20010101065704,duputel010101b,atlas20010101065705,iscgem1763197,",
+                "mag": 7.5,
+                "magType": "mwc",
+                "mmi": 6.7,
+                "net": "us",
+                "nst": 324,
+                "place": "Mindanao, Philippines",
+                "rms": 1.06,
+                "sig": 865,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 978332224170,
+                "title": "M 7.5 - Mindanao, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229492217,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a70h"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 15,
+        "generated": 1498104059000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2001-1-01&endtime=2001-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

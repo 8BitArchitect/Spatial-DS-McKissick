@@ -1,0 +1,781 @@
+{
+    "bbox": [
+        -177.232,
+        -60.857,
+        8.8,
+        166.018,
+        55.393,
+        598.1
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -55.0033,
+                    -53.9451,
+                    11.78
+                ],
+                "type": "Point"
+            },
+            "id": "usb000l5zn",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "b000l5zn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000l5zn&format=geojson",
+                "dmin": 2.935,
+                "felt": null,
+                "gap": 31,
+                "ids": ",usb000l5zn,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "Falkland Islands region",
+                "rms": 1.08,
+                "sig": 754,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1385360853300,
+                "title": "M 7.0 - Falkland Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,general-link,general-text,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,",
+                "tz": -240,
+                "updated": 1480723138844,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000l5zn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.4011,
+                    -60.2738,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usb000l0gq",
+            "properties": {
+                "alert": "green",
+                "cdi": 1,
+                "code": "b000l0gq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000l0gq&format=geojson",
+                "dmin": 8.05,
+                "felt": 0,
+                "gap": 23,
+                "ids": ",usb000l0gq,at00mweh87,pt13321000,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": 6.71,
+                "net": "us",
+                "nst": null,
+                "place": "Scotia Sea",
+                "rms": 1.33,
+                "sig": 912,
+                "sources": ",us,at,pt,",
+                "status": "reviewed",
+                "time": 1384679095530,
+                "title": "M 7.7 - Scotia Sea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -180,
+                "updated": 1486511027889,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000l0gq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.6611,
+                    37.1557,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "usc000kn4n",
+            "properties": {
+                "alert": "green",
+                "cdi": 6,
+                "code": "c000kn4n",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000kn4n&format=geojson",
+                "dmin": 3.968,
+                "felt": 198,
+                "gap": 10,
+                "ids": ",at00mv8id4,pt13298000,usc000kn4n,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 3.35,
+                "net": "us",
+                "nst": null,
+                "place": "Off the east coast of Honshu, Japan",
+                "rms": 1.01,
+                "sig": 894,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1382721019710,
+                "title": "M 7.1 - Off the east coast of Honshu, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1491509658920,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000kn4n"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    124.1167,
+                    9.8796,
+                    19.04
+                ],
+                "type": "Point"
+            },
+            "id": "usb000kdb4",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "b000kdb4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000kdb4&format=geojson",
+                "dmin": 3.144,
+                "felt": 187,
+                "gap": 12,
+                "ids": ",usb000kdb4,pt13288000,at00muool4,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 9.42,
+                "net": "us",
+                "nst": null,
+                "place": "4km SE of Sagbayan, Philippines",
+                "rms": 1.3,
+                "sig": 1170,
+                "sources": ",us,pt,at,",
+                "status": "reviewed",
+                "time": 1381795952050,
+                "title": "M 7.1 - 4km SE of Sagbayan, Philippines",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 480,
+                "updated": 1495606821337,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000kdb4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.5112,
+                    -15.8385,
+                    40
+                ],
+                "type": "Point"
+            },
+            "id": "usb000jzma",
+            "properties": {
+                "alert": "green",
+                "cdi": 6.3,
+                "code": "b000jzma",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000jzma&format=geojson",
+                "dmin": 4.446,
+                "felt": 144,
+                "gap": 17,
+                "ids": ",pt13268000,at00mtox39,usb000jzma,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 7.85,
+                "net": "us",
+                "nst": null,
+                "place": "46km SSE of Acari, Peru",
+                "rms": 0.9,
+                "sig": 866,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1380127363170,
+                "title": "M 7.1 - 46km SSE of Acari, Peru",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": -300,
+                "updated": 1487997759397,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jzma"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    65.5009,
+                    26.951,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "usb000jyiv",
+            "properties": {
+                "alert": "red",
+                "cdi": 4.6,
+                "code": "b000jyiv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000jyiv&format=geojson",
+                "dmin": 7.241,
+                "felt": 56,
+                "gap": 17,
+                "ids": ",usb000jyiv,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": 8.92,
+                "net": "us",
+                "nst": null,
+                "place": "61km NNE of Awaran, Pakistan",
+                "rms": 0.93,
+                "sig": 2026,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1380022187970,
+                "title": "M 7.7 - 61km NNE of Awaran, Pakistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 300,
+                "updated": 1486510990490,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jyiv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -175.2297,
+                    51.537,
+                    29
+                ],
+                "type": "Point"
+            },
+            "id": "usb000jdt7",
+            "properties": {
+                "alert": "green",
+                "cdi": 4.1,
+                "code": "b000jdt7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000jdt7&format=geojson",
+                "dmin": 0.624,
+                "felt": 7,
+                "gap": 53,
+                "ids": ",usb000jdt7,pt13242001,at00mscqyj,ak10792992,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 6.42,
+                "net": "us",
+                "nst": null,
+                "place": "101km SW of Atka, Alaska",
+                "rms": 0.89,
+                "sig": 757,
+                "sources": ",us,pt,at,ak,",
+                "status": "reviewed",
+                "time": 1377879902300,
+                "title": "M 7.0 - 101km SW of Atka, Alaska",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": -720,
+                "updated": 1480724540647,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jdt7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.07,
+                    -60.857,
+                    11
+                ],
+                "type": "Point"
+            },
+            "id": "usb000ief9",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "b000ief9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000ief9&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 43,
+                "ids": ",at00mpzdq7,pt13196002,usb000ief9,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 6.06,
+                "net": "us",
+                "nst": 398,
+                "place": "218km SSE of Bristol Island, South Sandwich Islands",
+                "rms": 0.88,
+                "sig": 820,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1373897019880,
+                "title": "M 7.3 - 218km SSE of Bristol Island, South Sandwich Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,finite-fault,focal-mechanism,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": -120,
+                "updated": 1480724937440,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000ief9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.927,
+                    -3.917,
+                    385.5
+                ],
+                "type": "Point"
+            },
+            "id": "usb000i89z",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "b000i89z",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000i89z&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 24,
+                "ids": ",pt13188000,at00mpkf7i,usb000i89z,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 4.34,
+                "net": "us",
+                "nst": 117,
+                "place": "115km ENE of Taron, Papua New Guinea",
+                "rms": 0.88,
+                "sig": 820,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1373222130740,
+                "title": "M 7.3 - 115km ENE of Taron, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1480725033429,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000i89z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.221,
+                    54.892,
+                    598.1
+                ],
+                "type": "Point"
+            },
+            "id": "usb000h4jh",
+            "properties": {
+                "alert": "green",
+                "cdi": 6,
+                "code": "b000h4jh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000h4jh&format=geojson",
+                "dmin": null,
+                "felt": 102,
+                "gap": 10,
+                "ids": ",at00mnafyn,pt13144001,usb000h4jh,",
+                "mag": 8.3,
+                "magType": "mww",
+                "mmi": 4.89,
+                "net": "us",
+                "nst": 385,
+                "place": "Sea of Okhotsk",
+                "rms": 1.02,
+                "sig": 1121,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1369374288980,
+                "title": "M 8.3 - Sea of Okhotsk",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1480725307656,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000h4jh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -177.232,
+                    -23.009,
+                    173.7
+                ],
+                "type": "Point"
+            },
+            "id": "usb000h3k3",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "b000h3k3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000h3k3&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 16,
+                "ids": ",at00mn9hfs,usb000h3k3,pt13143000,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": 5.2,
+                "net": "us",
+                "nst": 626,
+                "place": "282km SW of Vaini, Tonga",
+                "rms": 0.85,
+                "sig": 842,
+                "sources": ",at,us,pt,",
+                "status": "reviewed",
+                "time": 1369329544750,
+                "title": "M 7.4 - 282km SW of Vaini, Tonga",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": -720,
+                "updated": 1489596393381,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000h3k3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.788,
+                    46.221,
+                    110
+                ],
+                "type": "Point"
+            },
+            "id": "usb000gbf8",
+            "properties": {
+                "alert": "green",
+                "cdi": 4.5,
+                "code": "b000gbf8",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000gbf8&format=geojson",
+                "dmin": null,
+                "felt": 12,
+                "gap": 10.1,
+                "ids": ",pt13109000,at00mlhf9p,usb000gbf8,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": 6.72,
+                "net": "us",
+                "nst": 770,
+                "place": "251km ENE of Kuril'sk, Russia",
+                "rms": 0.86,
+                "sig": 803,
+                "sources": ",pt,at,us,",
+                "status": "reviewed",
+                "time": 1366340752650,
+                "title": "M 7.2 - 251km ENE of Kuril'sk, Russia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,focal-mechanism,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 720,
+                "updated": 1480726535604,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000gbf8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    61.996,
+                    28.033,
+                    80
+                ],
+                "type": "Point"
+            },
+            "id": "usb000g7x7",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 7.3,
+                "code": "b000g7x7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000g7x7&format=geojson",
+                "dmin": null,
+                "felt": 915,
+                "gap": 26.6,
+                "ids": ",usb000g7x7,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": 7.25,
+                "net": "us",
+                "nst": 506,
+                "place": "83km E of Khash, Iran",
+                "rms": 1.09,
+                "sig": 1580,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1366109060180,
+                "title": "M 7.7 - 83km E of Khash, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,focal-mechanism,general-link,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 270,
+                "updated": 1486510974279,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000g7x7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.476,
+                    -3.517,
+                    66
+                ],
+                "type": "Point"
+            },
+            "id": "usb000g13s",
+            "properties": {
+                "alert": "green",
+                "cdi": 2.9,
+                "code": "b000g13s",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000g13s&format=geojson",
+                "dmin": null,
+                "felt": 3,
+                "gap": 11.4,
+                "ids": ",at00mkth32,pt13096001,usb000g13s,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 5.53,
+                "net": "us",
+                "nst": 640,
+                "place": "240km E of Enarotali, Indonesia",
+                "rms": 0.81,
+                "sig": 755,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1365223355860,
+                "title": "M 7.0 - 240km E of Enarotali, Indonesia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,focal-mechanism,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 540,
+                "updated": 1480727079899,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000g13s"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    166.018,
+                    -10.928,
+                    21
+                ],
+                "type": "Point"
+            },
+            "id": "usc000f40j",
+            "properties": {
+                "alert": "green",
+                "cdi": 8.7,
+                "code": "c000f40j",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000f40j&format=geojson",
+                "dmin": null,
+                "felt": 4,
+                "gap": 16.5,
+                "ids": ",usc000f40j,choy20130208152638,pt13039002,at00mhwqwe,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 8.33,
+                "net": "us",
+                "nst": 334,
+                "place": "31km SE of Lata, Solomon Islands",
+                "rms": 0.92,
+                "sig": 779,
+                "sources": ",us,choy,pt,at,",
+                "status": "reviewed",
+                "time": 1360337198470,
+                "title": "M 7.1 - 31km SE of Lata, Solomon Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,eq-location-map,finite-fault,focal-mechanism,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1439493366289,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f40j"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    165.588,
+                    -10.499,
+                    8.8
+                ],
+                "type": "Point"
+            },
+            "id": "usc000f1ts",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "c000f1ts",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000f1ts&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 17.5,
+                "ids": ",usc000f1ts,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 8.43,
+                "net": "us",
+                "nst": 445,
+                "place": "27km NNW of Lata, Solomon Islands",
+                "rms": 1.22,
+                "sig": 754,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1360115654610,
+                "title": "M 7.0 - 27km NNW of Lata, Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",eq-location-map,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1415325001289,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1ts"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    164.882,
+                    -11.183,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usc000f1se",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "c000f1se",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000f1se&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 18.4,
+                "ids": ",usc000f1se,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 9.55,
+                "net": "us",
+                "nst": 550,
+                "place": "114km WSW of Lata, Solomon Islands",
+                "rms": 1.19,
+                "sig": 776,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1360113799760,
+                "title": "M 7.1 - 114km WSW of Lata, Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",eq-location-map,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1415325001073,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1se"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    165.114,
+                    -10.799,
+                    24
+                ],
+                "type": "Point"
+            },
+            "id": "usc000f1s0",
+            "properties": {
+                "alert": "green",
+                "cdi": 7.9,
+                "code": "c000f1s0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000f1s0&format=geojson",
+                "dmin": null,
+                "felt": 8,
+                "gap": 20.9,
+                "ids": ",pt13037001,at00mhry0j,usc000f1s0,choy20130206011225,",
+                "mag": 8,
+                "magType": "mww",
+                "mmi": 8.04,
+                "net": "us",
+                "nst": 460,
+                "place": "76km W of Lata, Solomon Islands",
+                "rms": 1.29,
+                "sig": 991,
+                "sources": ",pt,at,us,choy,",
+                "status": "reviewed",
+                "time": 1360113145830,
+                "title": "M 8.0 - 76km W of Lata, Solomon Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,eq-location-map,finite-fault,focal-mechanism,general-link,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1486510956765,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1s0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.652,
+                    55.393,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jxum",
+            "properties": {
+                "alert": null,
+                "cdi": 5.6,
+                "code": "p000jxum",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jxum&format=geojson",
+                "dmin": null,
+                "felt": 1034,
+                "gap": 28.5,
+                "ids": ",usc000ejqv,usp000jxum,choy20130105085819,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": null,
+                "net": "us",
+                "nst": 659,
+                "place": "Southeastern Alaska",
+                "rms": 1.26,
+                "sig": 1425,
+                "sources": ",us,us,choy,",
+                "status": "reviewed",
+                "time": 1357376299330,
+                "title": "M 7.5 - Southeastern Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1486510919198,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jxum"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 19,
+        "generated": 1498104065000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2013-1-01&endtime=2013-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

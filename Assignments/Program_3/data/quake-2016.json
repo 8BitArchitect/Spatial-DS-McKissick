@@ -1,0 +1,541 @@
+{
+    "bbox": [
+        -153.4051,
+        -56.2409,
+        10,
+        179.1461,
+        59.6363,
+        196
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    173.054,
+                    -42.7373,
+                    15.11
+                ],
+                "type": "Point"
+            },
+            "id": "us1000778i",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "1000778i",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000778i&format=geojson",
+                "dmin": 0.481,
+                "felt": 708,
+                "gap": 21,
+                "ids": ",at00ogkuoy,us1000778i,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 8.85,
+                "net": "us",
+                "nst": null,
+                "place": "54km NNE of Amberley, New Zealand",
+                "rms": 0.56,
+                "sig": 1644,
+                "sources": ",at,us,",
+                "status": "reviewed",
+                "time": 1479034976340,
+                "title": "M 7.8 - 54km NNE of Amberley, New Zealand",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": 720,
+                "updated": 1486883416123,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000778i"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    179.1461,
+                    -37.3586,
+                    19
+                ],
+                "type": "Point"
+            },
+            "id": "us10006jbi",
+            "properties": {
+                "alert": "green",
+                "cdi": 4.9,
+                "code": "10006jbi",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006jbi&format=geojson",
+                "dmin": 0.698,
+                "felt": 292,
+                "gap": 21,
+                "ids": ",at00ocu3ja,pt16245050,us10006jbi,gcmt20160901163757,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 6.11,
+                "net": "us",
+                "nst": null,
+                "place": "175km NE of Gisborne, New Zealand",
+                "rms": 0.88,
+                "sig": 897,
+                "sources": ",at,pt,us,gcmt,",
+                "status": "reviewed",
+                "time": 1472747877300,
+                "title": "M 7.0 - 175km NE of Gisborne, New Zealand",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": 720,
+                "updated": 1486511457758,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006jbi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.8255,
+                    -0.0456,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us20006uy6",
+            "properties": {
+                "alert": "green",
+                "cdi": 3.4,
+                "code": "20006uy6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20006uy6&format=geojson",
+                "dmin": 8.561,
+                "felt": 8,
+                "gap": 24,
+                "ids": ",at00ocnltz,us20006uy6,gcmt20160829042957,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "North of Ascension Island",
+                "rms": 0.87,
+                "sig": 778,
+                "sources": ",at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1472444997860,
+                "title": "M 7.1 - North of Ascension Island",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": -60,
+                "updated": 1486511450814,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20006uy6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -31.8766,
+                    -55.2852,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us10006exl",
+            "properties": {
+                "alert": "green",
+                "cdi": 2.7,
+                "code": "10006exl",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006exl&format=geojson",
+                "dmin": 2.852,
+                "felt": 1,
+                "gap": 18,
+                "ids": ",us10006exl,gcmt20160819073222,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "South Georgia Island region",
+                "rms": 0.79,
+                "sig": 843,
+                "sources": ",us,gcmt,",
+                "status": "reviewed",
+                "time": 1471591942710,
+                "title": "M 7.4 - South Georgia Island region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": -120,
+                "updated": 1486511443677,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006exl"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    173.1167,
+                    -22.4765,
+                    16.37
+                ],
+                "type": "Point"
+            },
+            "id": "us10006d5h",
+            "properties": {
+                "alert": "green",
+                "cdi": 6.2,
+                "code": "10006d5h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006d5h&format=geojson",
+                "dmin": 4.823,
+                "felt": 2,
+                "gap": 14,
+                "ids": ",at00obrw0f,pt16225050,us10006d5h,gcmt20160812012635,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": 5.1,
+                "net": "us",
+                "nst": null,
+                "place": "110km E of Ile Hunter, New Caledonia",
+                "rms": 0.9,
+                "sig": 799,
+                "sources": ",at,pt,us,gcmt,",
+                "status": "reviewed",
+                "time": 1470965196280,
+                "title": "M 7.2 - 110km E of Ile Hunter, New Caledonia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": 720,
+                "updated": 1486511438119,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006d5h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.5073,
+                    18.5429,
+                    196
+                ],
+                "type": "Point"
+            },
+            "id": "us100068jg",
+            "properties": {
+                "alert": "green",
+                "cdi": 4.6,
+                "code": "100068jg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100068jg&format=geojson",
+                "dmin": 3.294,
+                "felt": 129,
+                "gap": 14,
+                "ids": ",at00ob3huo,us100068jg,gcmt20160729211825,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": 6.33,
+                "net": "us",
+                "nst": null,
+                "place": "29km SW of Agrihan, Northern Mariana Islands",
+                "rms": 1.38,
+                "sig": 971,
+                "sources": ",at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1469827104740,
+                "title": "M 7.7 - 29km SW of Agrihan, Northern Mariana Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1486511415901,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100068jg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -26.9353,
+                    -56.2409,
+                    78
+                ],
+                "type": "Point"
+            },
+            "id": "us20005ysu",
+            "properties": {
+                "alert": "green",
+                "cdi": 1,
+                "code": "20005ysu",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005ysu&format=geojson",
+                "dmin": 5.803,
+                "felt": 0,
+                "gap": 24,
+                "ids": ",at00o7vsif,us20005ysu,gcmt20160528094659,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": 6.01,
+                "net": "us",
+                "nst": null,
+                "place": "53km NNE of Visokoi Island, South Georgia and the South Sandwich Islands",
+                "rms": 0.89,
+                "sig": 798,
+                "sources": ",at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1464428819780,
+                "title": "M 7.2 - 53km NNE of Visokoi Island, South Georgia and the South Sandwich Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,",
+                "tz": -120,
+                "updated": 1486511394060,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005ysu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.3786,
+                    -16.0429,
+                    24
+                ],
+                "type": "Point"
+            },
+            "id": "us10005c88",
+            "properties": {
+                "alert": "green",
+                "cdi": 6.8,
+                "code": "10005c88",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10005c88&format=geojson",
+                "dmin": 0.616,
+                "felt": 2,
+                "gap": 14,
+                "ids": ",pt16119051,at00o6cznp,us10005c88,gcmt20160428193324,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 6.5,
+                "net": "us",
+                "nst": null,
+                "place": "2km N of Norsup, Vanuatu",
+                "rms": 1.33,
+                "sig": 755,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1461872004070,
+                "title": "M 7.0 - 2km N of Norsup, Vanuatu",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,trump-moment-tensor,",
+                "tz": 660,
+                "updated": 1486511387232,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10005c88"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9218,
+                    0.3819,
+                    20.59
+                ],
+                "type": "Point"
+            },
+            "id": "us20005j32",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "20005j32",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005j32&format=geojson",
+                "dmin": 1.44,
+                "felt": 193,
+                "gap": 15,
+                "ids": ",at00o5r3xd,us20005j32,pt16107050,gcmt20160416235837,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 8.08,
+                "net": "us",
+                "nst": null,
+                "place": "27km SSE of Muisne, Ecuador",
+                "rms": 0.94,
+                "sig": 1176,
+                "sources": ",at,us,pt,gcmt,",
+                "status": "reviewed",
+                "time": 1460851116980,
+                "title": "M 7.8 - 27km SSE of Muisne, Ecuador",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -300,
+                "updated": 1497458054864,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005j32"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.7543,
+                    32.7906,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us20005iis",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.4,
+                "code": "20005iis",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005iis&format=geojson",
+                "dmin": 0.349,
+                "felt": 72,
+                "gap": 32,
+                "ids": ",at00o5oo9v,pt16106053,us20005iis,gcmt20160415162506,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 9.3,
+                "net": "us",
+                "nst": null,
+                "place": "1km E of Kumamoto-shi, Japan",
+                "rms": 0.85,
+                "sig": 2060,
+                "sources": ",at,pt,us,gcmt,",
+                "status": "reviewed",
+                "time": 1460737506220,
+                "title": "M 7.0 - 1km E of Kumamoto-shi, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 540,
+                "updated": 1496584613178,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    94.3299,
+                    -4.9521,
+                    24
+                ],
+                "type": "Point"
+            },
+            "id": "us10004u1y",
+            "properties": {
+                "alert": "green",
+                "cdi": 3.8,
+                "code": "10004u1y",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10004u1y&format=geojson",
+                "dmin": 7.009,
+                "felt": 30,
+                "gap": 20,
+                "ids": ",us10004u1y,gcmt20160302124948,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 3.07,
+                "net": "us",
+                "nst": null,
+                "place": "Southwest of Sumatra, Indonesia",
+                "rms": 1.14,
+                "sig": 947,
+                "sources": ",us,gcmt,",
+                "status": "reviewed",
+                "time": 1456922988110,
+                "title": "M 7.8 - Southwest of Sumatra, Indonesia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 360,
+                "updated": 1486511353268,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10004u1y"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    158.5463,
+                    53.9776,
+                    177
+                ],
+                "type": "Point"
+            },
+            "id": "us20004vvx",
+            "properties": {
+                "alert": "green",
+                "cdi": 3.4,
+                "code": "20004vvx",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20004vvx&format=geojson",
+                "dmin": 0.958,
+                "felt": 2,
+                "gap": 17,
+                "ids": ",gcmt20160130032510,at00o1qxho,pt16030050,us20004vvx,gcmt20160130032512,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": 5.82,
+                "net": "us",
+                "nst": null,
+                "place": "88km N of Yelizovo, Russia",
+                "rms": 1.19,
+                "sig": 798,
+                "sources": ",gcmt,at,pt,us,gcmt,",
+                "status": "reviewed",
+                "time": 1454124312220,
+                "title": "M 7.2 - 88km N of Yelizovo, Russia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": 720,
+                "updated": 1486511313778,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20004vvx"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -153.4051,
+                    59.6363,
+                    129
+                ],
+                "type": "Point"
+            },
+            "id": "us10004gqp",
+            "properties": {
+                "alert": "green",
+                "cdi": 7.2,
+                "code": "10004gqp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10004gqp&format=geojson",
+                "dmin": 0.72,
+                "felt": 1816,
+                "gap": 19,
+                "ids": ",at00o1gd6r,us10004gqp,ak12496371,gcmt20160124103030,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 6.6,
+                "net": "us",
+                "nst": null,
+                "place": "86km E of Old Iliamna, Alaska",
+                "rms": 2.11,
+                "sig": 1496,
+                "sources": ",at,us,ak,gcmt,",
+                "status": "reviewed",
+                "time": 1453631430230,
+                "title": "M 7.1 - 86km E of Old Iliamna, Alaska",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,trump-origin,",
+                "tz": -540,
+                "updated": 1486511256806,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10004gqp"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 13,
+        "generated": 1498104067000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2016-1-01&endtime=2016-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

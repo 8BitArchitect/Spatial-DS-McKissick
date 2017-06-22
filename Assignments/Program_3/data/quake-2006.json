@@ -1,0 +1,421 @@
+{
+    "bbox": [
+        -179.307,
+        -61.029,
+        10,
+        167.089,
+        60.949,
+        582.9
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    153.266,
+                    46.592,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp000exfn",
+            "properties": {
+                "alert": null,
+                "cdi": 2.7,
+                "code": "p000exfn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000exfn&format=geojson",
+                "dmin": null,
+                "felt": 7,
+                "gap": 20.9,
+                "ids": ",usp000exfn,us2006vcam,choy20061115111413,gcmtm200611151114a,gcmt20061115111417,duputel200611151114a,iscgem9235276,atlas20061115111413,",
+                "mag": 8.3,
+                "magType": "mwc",
+                "mmi": 6.9,
+                "net": "us",
+                "nst": 576,
+                "place": "Kuril Islands",
+                "rms": 1.07,
+                "sig": 1062,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1163589253570,
+                "title": "M 8.3 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492122039820,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000exfn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.371,
+                    -61.029,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "usp000erc2",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000erc2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000erc2&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 27.1,
+                "ids": ",choy20060820034147,gcmtc200608200341a,usp000erc2,gcmt20060820034147,duputel200608200341a,iscgem10699978,",
+                "mag": 7,
+                "magType": "mwb",
+                "mmi": null,
+                "net": "us",
+                "nst": 322,
+                "place": "Scotia Sea",
+                "rms": 1.01,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1156045308040,
+                "title": "M 7.0 - Scotia Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478741235356,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000erc2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    107.419,
+                    -9.284,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "usp000ensm",
+            "properties": {
+                "alert": null,
+                "cdi": 6.4,
+                "code": "p000ensm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000ensm&format=geojson",
+                "dmin": null,
+                "felt": 64,
+                "gap": 36.8,
+                "ids": ",duputel200607170819a,usp000ensm,us2006qgaf,choy20060717081928,gcmtm200607170819a,gcmt20060717081928,atlas20060717081928,iscgem10699442,",
+                "mag": 7.7,
+                "magType": "mwc",
+                "mmi": 5.6,
+                "net": "us",
+                "nst": 357,
+                "place": "south of Java, Indonesia",
+                "rms": 1.16,
+                "sig": 953,
+                "sources": ",duputel,us,us,choy,gcmt,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1153124366680,
+                "title": "M 7.7 - south of Java, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229962659,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ensm"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -179.307,
+                    -31.81,
+                    152
+                ],
+                "type": "Point"
+            },
+            "id": "usp000eh87",
+            "properties": {
+                "alert": null,
+                "cdi": 5.9,
+                "code": "p000eh87",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000eh87&format=geojson",
+                "dmin": null,
+                "felt": 73,
+                "gap": 19.7,
+                "ids": ",us2006muah,choy20060516103923,gcmtc200605161039a,usp000eh87,gcmt20060516103923,duputel200605161039a,iscgem10698463,",
+                "mag": 7.4,
+                "magType": "mwb",
+                "mmi": null,
+                "net": "us",
+                "nst": 613,
+                "place": "Kermadec Islands region",
+                "rms": 1.32,
+                "sig": 886,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1147775963340,
+                "title": "M 7.4 - Kermadec Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478740941746,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000eh87"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -174.123,
+                    -20.187,
+                    55
+                ],
+                "type": "Point"
+            },
+            "id": "usp000eg5g",
+            "properties": {
+                "alert": null,
+                "cdi": 8.2,
+                "code": "p000eg5g",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000eg5g&format=geojson",
+                "dmin": null,
+                "felt": 51,
+                "gap": 20.7,
+                "ids": ",iscgem10698255,usp000eg5g,us2006mgas,choy20060503152640,gcmtc200605031527a,gcmt20060503152640,duputel200605031527a,atlas20060503152640,",
+                "mag": 8,
+                "magType": "mwc",
+                "mmi": 9,
+                "net": "us",
+                "nst": 626,
+                "place": "Tonga",
+                "rms": 1.18,
+                "sig": 1026,
+                "sources": ",iscgem,us,us,choy,gcmt,gcmt,duputel,atlas,",
+                "status": "reviewed",
+                "time": 1146670000290,
+                "title": "M 8.0 - Tonga",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492122010613,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000eg5g"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.089,
+                    60.949,
+                    22
+                ],
+                "type": "Point"
+            },
+            "id": "usp000ef1h",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000ef1h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000ef1h&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 18.5,
+                "ids": ",usp000ef1h,choy20060420232502,gcmtc200604202325a,gcmt20060420232502,duputel200604202325a,iscgem10697894,atlas20060420232502,",
+                "mag": 7.6,
+                "magType": "mwc",
+                "mmi": 7.9,
+                "net": "us",
+                "nst": 579,
+                "place": "near the east coast of Koryakskiy Avtonomnyy Okrug, Russia",
+                "rms": 0.87,
+                "sig": 889,
+                "sources": ",us,choy,gcmt,gcmt,duputel,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1145575502150,
+                "title": "M 7.6 - near the east coast of Koryakskiy Avtonomnyy Okrug, Russia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492122006287,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ef1h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    33.583,
+                    -21.324,
+                    11
+                ],
+                "type": "Point"
+            },
+            "id": "usp000eamh",
+            "properties": {
+                "alert": null,
+                "cdi": 5.1,
+                "code": "p000eamh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000eamh&format=geojson",
+                "dmin": null,
+                "felt": 484,
+                "gap": 23.2,
+                "ids": ",us2006jlca,choy20060222221907,gcmtc200602222219a,usp000eamh,gcmt20060222221907,duputel200602222219a,atlas20060222221907,atlas20060222221908,iscgem8096170,",
+                "mag": 7,
+                "magType": "mwb",
+                "mmi": 8.5,
+                "net": "us",
+                "nst": 412,
+                "place": "Mozambique",
+                "rms": 1.37,
+                "sig": 1001,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,atlas,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1140646747800,
+                "title": "M 7.0 - Mozambique",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493229923748,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000eamh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.131,
+                    -5.473,
+                    397
+                ],
+                "type": "Point"
+            },
+            "id": "usp000e8ys",
+            "properties": {
+                "alert": null,
+                "cdi": 4.3,
+                "code": "p000e8ys",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000e8ys&format=geojson",
+                "dmin": null,
+                "felt": 113,
+                "gap": 22.3,
+                "ids": ",us2006ika7,usp000e8ys,choy20060127165853,gcmtm200601271658a,gcmt20060127165853,duputel200601271658a,iscgem8079410,",
+                "mag": 7.6,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 560,
+                "place": "Banda Sea",
+                "rms": 0.88,
+                "sig": 937,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1138381133670,
+                "title": "M 7.6 - Banda Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478745583327,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e8ys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -178.178,
+                    -19.926,
+                    582.9
+                ],
+                "type": "Point"
+            },
+            "id": "usp000e7f0",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000e7f0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000e7f0&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 18.7,
+                "ids": ",choy20060102221340,gcmtm200601022213a,usp000e7f0,gcmt20060102221340,duputel200601022213a,atlas20060102221341,iscgem8029697,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 646,
+                "place": "Fiji region",
+                "rms": 1.11,
+                "sig": 798,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1136240020490,
+                "title": "M 7.2 - Fiji region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478745582745,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e7f0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -21.606,
+                    -60.957,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "usp000e7dd",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000e7dd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000e7dd&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 18.8,
+                "ids": ",choy20060102061049,gcmtm200601020610a,usp000e7dd,gcmt20060102061049,duputel200601020610a,iscgem7997740,",
+                "mag": 7.4,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 271,
+                "place": "east of the South Sandwich Islands",
+                "rms": 1.28,
+                "sig": 842,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1136182249760,
+                "title": "M 7.4 - east of the South Sandwich Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478745582165,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e7dd"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 10,
+        "generated": 1498104061000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2006-1-01&endtime=2006-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,701 @@
+{
+    "bbox": [
+        -71.6744,
+        -35.3639,
+        8.22,
+        167.3028,
+        52.6487,
+        664
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0184,
+                    -10.0598,
+                    620.56
+                ],
+                "type": "Point"
+            },
+            "id": "us100040x6",
+            "properties": {
+                "alert": "green",
+                "cdi": 4,
+                "code": "100040x6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100040x6&format=geojson",
+                "dmin": 2.852,
+                "felt": 14,
+                "gap": 10,
+                "ids": ",us100040x6,gcmt20151124225053,",
+                "mag": 7.6,
+                "magType": "mww",
+                "mmi": 3.5,
+                "net": "us",
+                "nst": null,
+                "place": "211km S of Tarauaca, Brazil",
+                "rms": 1,
+                "sig": 894,
+                "sources": ",us,gcmt,",
+                "status": "reviewed",
+                "time": 1448405454370,
+                "title": "M 7.6 - 211km S of Tarauaca, Brazil",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": -300,
+                "updated": 1478815325964,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100040x6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.9437,
+                    -10.5372,
+                    606.21
+                ],
+                "type": "Point"
+            },
+            "id": "us100040ww",
+            "properties": {
+                "alert": "green",
+                "cdi": 5.5,
+                "code": "100040ww",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100040ww&format=geojson",
+                "dmin": 3.287,
+                "felt": 114,
+                "gap": 10,
+                "ids": ",pt15328051,at00nycck1,us100040ww,gcmt20151124224538,",
+                "mag": 7.6,
+                "magType": "mww",
+                "mmi": 3.51,
+                "net": "us",
+                "nst": null,
+                "place": "173km WNW of Iberia, Peru",
+                "rms": 1.36,
+                "sig": 951,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1448405138880,
+                "title": "M 7.6 - 173km WNW of Iberia, Peru",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -300,
+                "updated": 1495494206992,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100040ww"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    70.3676,
+                    36.5244,
+                    231
+                ],
+                "type": "Point"
+            },
+            "id": "us10003re5",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7,
+                "code": "10003re5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10003re5&format=geojson",
+                "dmin": 0.622,
+                "felt": 738,
+                "gap": 18,
+                "ids": ",us10003re5,gcmt20151026090932,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": 6.91,
+                "net": "us",
+                "nst": null,
+                "place": "45km E of Farkhar, Afghanistan",
+                "rms": 1.43,
+                "sig": 1517,
+                "sources": ",us,gcmt,",
+                "status": "reviewed",
+                "time": 1445850582560,
+                "title": "M 7.5 - 45km E of Farkhar, Afghanistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 270,
+                "updated": 1495131128383,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10003re5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.3028,
+                    -14.8595,
+                    135
+                ],
+                "type": "Point"
+            },
+            "id": "us10003q0q",
+            "properties": {
+                "alert": "green",
+                "cdi": 5.7,
+                "code": "10003q0q",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10003q0q&format=geojson",
+                "dmin": 0.592,
+                "felt": 8,
+                "gap": 11,
+                "ids": ",pt15293052,at00nwjgqr,us10003q0q,gcmt20151020215202,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 6,
+                "net": "us",
+                "nst": null,
+                "place": "34km NE of Port-Olry, Vanuatu",
+                "rms": 1.02,
+                "sig": 780,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1445377922560,
+                "title": "M 7.1 - 34km NE of Port-Olry, Vanuatu",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1480718083980,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10003q0q"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4262,
+                    -31.5622,
+                    28.41
+                ],
+                "type": "Point"
+            },
+            "id": "us20003k7w",
+            "properties": {
+                "alert": "green",
+                "cdi": 7.6,
+                "code": "20003k7w",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20003k7w&format=geojson",
+                "dmin": 0.903,
+                "felt": 47,
+                "gap": 13,
+                "ids": ",us20003k7w,gcmt20150916231841,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 6.73,
+                "net": "us",
+                "nst": null,
+                "place": "25km WNW of Illapel, Chile",
+                "rms": 0.93,
+                "sig": 790,
+                "sources": ",us,gcmt,",
+                "status": "reviewed",
+                "time": 1442445521850,
+                "title": "M 7.0 - 25km WNW of Illapel, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": -180,
+                "updated": 1478814741940,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003k7w"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.6744,
+                    -31.5729,
+                    22.44
+                ],
+                "type": "Point"
+            },
+            "id": "us20003k7a",
+            "properties": {
+                "alert": "pending",
+                "cdi": 8.5,
+                "code": "20003k7a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20003k7a&format=geojson",
+                "dmin": 0.684,
+                "felt": 1249,
+                "gap": 19,
+                "ids": ",us20003k7a,gcmt20150916225432,gcmt20150916225433,at00nuskyv,pt15259054,",
+                "mag": 8.3,
+                "magType": "mww",
+                "mmi": 8.26,
+                "net": "us",
+                "nst": null,
+                "place": "48km W of Illapel, Chile",
+                "rms": 1.02,
+                "sig": 1910,
+                "sources": ",us,gcmt,gcmt,at,pt,",
+                "status": "reviewed",
+                "time": 1442444072860,
+                "title": "M 8.3 - 48km W of Illapel, Chile",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": -180,
+                "updated": 1493958420536,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003k7a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5277,
+                    -2.6286,
+                    48
+                ],
+                "type": "Point"
+            },
+            "id": "us200030kn",
+            "properties": {
+                "alert": "green",
+                "cdi": 3.4,
+                "code": "200030kn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us200030kn&format=geojson",
+                "dmin": 6.278,
+                "felt": 5,
+                "gap": 12,
+                "ids": ",pt15208054,at00ns61l3,us200030kn,gcmt20150727214121,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 6.56,
+                "net": "us",
+                "nst": null,
+                "place": "228km W of Abepura, Indonesia",
+                "rms": 1.2,
+                "sig": 756,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1438033281710,
+                "title": "M 7.0 - 228km W of Abepura, Indonesia",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 540,
+                "updated": 1486511178827,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us200030kn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    165.1409,
+                    -10.4012,
+                    11
+                ],
+                "type": "Point"
+            },
+            "id": "us20002yaw",
+            "properties": {
+                "alert": "green",
+                "cdi": 7.9,
+                "code": "20002yaw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002yaw&format=geojson",
+                "dmin": 5.205,
+                "felt": 7,
+                "gap": 22,
+                "ids": ",at00nrnw5q,pt15199050,us20002yaw,gcmt20150718022733,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 6.01,
+                "net": "us",
+                "nst": null,
+                "place": "83km WNW of Lata, Solomon Islands",
+                "rms": 1.09,
+                "sig": 759,
+                "sources": ",at,pt,us,gcmt,",
+                "status": "reviewed",
+                "time": 1437186453820,
+                "title": "M 7.0 - 83km WNW of Lata, Solomon Islands",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": 660,
+                "updated": 1478814538547,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002yaw"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.1605,
+                    -35.3639,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us20002qn7",
+            "properties": {
+                "alert": "green",
+                "cdi": null,
+                "code": "20002qn7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002qn7&format=geojson",
+                "dmin": 21.859,
+                "felt": null,
+                "gap": 34,
+                "ids": ",at00nq3adz,us20002qn7,pt15168050,gcmt20150617125133,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "Southern Mid-Atlantic Ridge",
+                "rms": 1.16,
+                "sig": 754,
+                "sources": ",at,us,pt,gcmt,",
+                "status": "reviewed",
+                "time": 1434545492790,
+                "title": "M 7.0 - Southern Mid-Atlantic Ridge",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -60,
+                "updated": 1480719075286,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002qn7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.4931,
+                    27.8386,
+                    664
+                ],
+                "type": "Point"
+            },
+            "id": "us20002ki3",
+            "properties": {
+                "alert": "green",
+                "cdi": 6,
+                "code": "20002ki3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002ki3&format=geojson",
+                "dmin": 1.675,
+                "felt": 375,
+                "gap": 12,
+                "ids": ",at00np5uaf,pt15150050,us20002ki3,gcmt20150530112302,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 6.53,
+                "net": "us",
+                "nst": null,
+                "place": "189km WNW of Chichi-shima, Japan",
+                "rms": 1.12,
+                "sig": 1161,
+                "sources": ",at,pt,us,gcmt,",
+                "status": "reviewed",
+                "time": 1432984982110,
+                "title": "M 7.8 - 189km WNW of Chichi-shima, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+                "tz": 540,
+                "updated": 1479038100602,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002ki3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    86.0655,
+                    27.8087,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "us20002ejl",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.7,
+                "code": "20002ejl",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002ejl&format=geojson",
+                "dmin": 0.677,
+                "felt": 1010,
+                "gap": 11,
+                "ids": ",us20002ejl,gcmt20150512070519,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 8.08,
+                "net": "us",
+                "nst": null,
+                "place": "19km SE of Kodari, Nepal",
+                "rms": 0.92,
+                "sig": 1770,
+                "sources": ",us,gcmt,",
+                "status": "reviewed",
+                "time": 1431414319730,
+                "title": "M 7.3 - 19km SE of Kodari, Nepal",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 345,
+                "updated": 1486511170737,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002ejl"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    154.5567,
+                    -7.2175,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us20002das",
+            "properties": {
+                "alert": "green",
+                "cdi": 1,
+                "code": "20002das",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002das&format=geojson",
+                "dmin": 3.835,
+                "felt": 1,
+                "gap": 11,
+                "ids": ",pt15127050,at00nnyx9e,us20002das,gcmt20150507071022,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 5.56,
+                "net": "us",
+                "nst": null,
+                "place": "143km SW of Panguna, Papua New Guinea",
+                "rms": 0.7,
+                "sig": 776,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1430982619590,
+                "title": "M 7.1 - 143km SW of Panguna, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1486511144454,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002das"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8751,
+                    -5.4624,
+                    55
+                ],
+                "type": "Point"
+            },
+            "id": "us20002bnf",
+            "properties": {
+                "alert": "green",
+                "cdi": 7.6,
+                "code": "20002bnf",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002bnf&format=geojson",
+                "dmin": 1.295,
+                "felt": 5,
+                "gap": 22,
+                "ids": ",pt15125050,at00nnusth,us20002bnf,gcmt20150505014405,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": 7.07,
+                "net": "us",
+                "nst": null,
+                "place": "130km SSW of Kokopo, Papua New Guinea",
+                "rms": 1.02,
+                "sig": 869,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1430790246380,
+                "title": "M 7.5 - 130km SSW of Kokopo, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1486511112600,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002bnf"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    84.7314,
+                    28.2305,
+                    8.22
+                ],
+                "type": "Point"
+            },
+            "id": "us20002926",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.2,
+                "code": "20002926",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002926&format=geojson",
+                "dmin": 1.857,
+                "felt": 1461,
+                "gap": 12,
+                "ids": ",us20002926,gcmt20150425061126,atlas20150425061125,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 8.62,
+                "net": "us",
+                "nst": null,
+                "place": "36km E of Khudi, Nepal",
+                "rms": 0.96,
+                "sig": 2820,
+                "sources": ",us,gcmt,atlas,",
+                "status": "reviewed",
+                "time": 1429942285950,
+                "title": "M 7.8 - 36km E of Khudi, Nepal",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,",
+                "tz": 345,
+                "updated": 1495479452540,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002926"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5623,
+                    -4.7294,
+                    41
+                ],
+                "type": "Point"
+            },
+            "id": "us10001rvu",
+            "properties": {
+                "alert": "green",
+                "cdi": 8.2,
+                "code": "10001rvu",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10001rvu&format=geojson",
+                "dmin": 0.666,
+                "felt": 9,
+                "gap": 19,
+                "ids": ",pt15088051,at00nlzzgx,us10001rvu,gcmt20150329234831,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": 7.02,
+                "net": "us",
+                "nst": null,
+                "place": "53km SE of Kokopo, Papua New Guinea",
+                "rms": 1.32,
+                "sig": 873,
+                "sources": ",pt,at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1427672911010,
+                "title": "M 7.5 - 53km SE of Kokopo, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": 600,
+                "updated": 1488996703163,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10001rvu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.5348,
+                    -7.2968,
+                    552.06
+                ],
+                "type": "Point"
+            },
+            "id": "usc000ttkd",
+            "properties": {
+                "alert": "green",
+                "cdi": 3.7,
+                "code": "c000ttkd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000ttkd&format=geojson",
+                "dmin": 1.362,
+                "felt": 17,
+                "gap": 12,
+                "ids": ",usc000ttkd,pt15058000,gcmt20150227134505,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 5.52,
+                "net": "us",
+                "nst": null,
+                "place": "130km N of Nebe, Indonesia",
+                "rms": 1.12,
+                "sig": 760,
+                "sources": ",us,pt,gcmt,",
+                "status": "reviewed",
+                "time": 1425044705370,
+                "title": "M 7.0 - 130km N of Nebe, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,touch,trump,",
+                "tz": 480,
+                "updated": 1480720506728,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -31.9016,
+                    52.6487,
+                    16.68
+                ],
+                "type": "Point"
+            },
+            "id": "usb000tp5q",
+            "properties": {
+                "alert": "green",
+                "cdi": 3.1,
+                "code": "b000tp5q",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000tp5q&format=geojson",
+                "dmin": 11.262,
+                "felt": 2,
+                "gap": 17,
+                "ids": ",at00njq4qr,usb000tp5q,gcmt20150213185912,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "Northern Mid-Atlantic Ridge",
+                "rms": 0.79,
+                "sig": 776,
+                "sources": ",at,us,gcmt,",
+                "status": "reviewed",
+                "time": 1423853952230,
+                "title": "M 7.1 - Northern Mid-Atlantic Ridge",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,",
+                "tz": -120,
+                "updated": 1489165290273,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000tp5q"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 17,
+        "generated": 1498104066000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2015-1-01&endtime=2015-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

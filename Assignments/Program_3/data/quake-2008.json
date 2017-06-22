@@ -1,0 +1,501 @@
+{
+    "bbox": [
+        -177.683,
+        -58.227,
+        8,
+        168.892,
+        54.203,
+        632.8
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    154.322,
+                    54.203,
+                    492.3
+                ],
+                "type": "Point"
+            },
+            "id": "usp000gpbs",
+            "properties": {
+                "alert": null,
+                "cdi": 6.1,
+                "code": "p000gpbs",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000gpbs&format=geojson",
+                "dmin": null,
+                "felt": 3,
+                "gap": 22.7,
+                "ids": ",us2008zuat,choy20081124090258,gcmtc200811240902a,usp000gpbs,gcmt20081124090258,duputel200811240902a,iscgem13401002,",
+                "mag": 7.3,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 531,
+                "place": "Sea of Okhotsk",
+                "rms": 0.77,
+                "sig": 822,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1227517378760,
+                "title": "M 7.3 - Sea of Okhotsk",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478743481190,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gpbs"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.091,
+                    1.271,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "usp000gnur",
+            "properties": {
+                "alert": null,
+                "cdi": 5.8,
+                "code": "p000gnur",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000gnur&format=geojson",
+                "dmin": null,
+                "felt": 4,
+                "gap": 33.7,
+                "ids": ",us2008zlbn,choy20081116170232,gcmtc200811161702a,usp000gnur,gcmt20081116170232,duputel200811161702a,atlas20081116170232,iscgem11453303,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": 365,
+                "place": "Minahasa, Sulawesi, Indonesia",
+                "rms": 1.1,
+                "sig": 845,
+                "sources": ",us,choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1226854952700,
+                "title": "M 7.4 - Minahasa, Sulawesi, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,scitech-text,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230127884,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gnur"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -177.683,
+                    -29.756,
+                    36
+                ],
+                "type": "Point"
+            },
+            "id": "usp000ghyg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000ghyg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000ghyg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 17.4,
+                "ids": ",choy20080929151931,gcmtc200809291519a,usp000ghyg,gcmt20080929151931,duputel200809291519a,iscgem13395461,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 524,
+                "place": "Kermadec Islands, New Zealand",
+                "rms": 1.21,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1222701571590,
+                "title": "M 7.0 - Kermadec Islands, New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,scitech-text,",
+                "tz": null,
+                "updated": 1478743330878,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ghyg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.214,
+                    37.552,
+                    22
+                ],
+                "type": "Point"
+            },
+            "id": "usp000gcjg",
+            "properties": {
+                "alert": null,
+                "cdi": 4.8,
+                "code": "p000gcjg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000gcjg&format=geojson",
+                "dmin": null,
+                "felt": 193,
+                "gap": 18.2,
+                "ids": ",usp000gcjg,us2008urah,choy20080719023928,gcmtc200807190239a,gcmt20080719023928,duputel200807190239a,atlas20080719023928,iscgem13389545,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": 4.8,
+                "net": "us",
+                "nst": 577,
+                "place": "off the east coast of Honshu, Japan",
+                "rms": 0.84,
+                "sig": 846,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1216435168700,
+                "title": "M 7.0 - off the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,scitech-text,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230104320,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gcjg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.886,
+                    53.882,
+                    632.8
+                ],
+                "type": "Point"
+            },
+            "id": "usp000gbc0",
+            "properties": {
+                "alert": null,
+                "cdi": 5.4,
+                "code": "p000gbc0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000gbc0&format=geojson",
+                "dmin": null,
+                "felt": 6,
+                "gap": 13.5,
+                "ids": ",usp000gbc0,us2008ucaf,choy20080705021204,gcmtc200807050212a,gcmt20080705021204,duputel200807050212a,iscgem12951048,",
+                "mag": 7.7,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 777,
+                "place": "Sea of Okhotsk",
+                "rms": 0.83,
+                "sig": 915,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1215223924480,
+                "title": "M 7.7 - Sea of Okhotsk",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478743098749,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gbc0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -22.099,
+                    -58.227,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "usp000gazv",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000gazv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000gazv&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 25.4,
+                "ids": ",choy20080630061744,gcmtc200806300617a,usp000gazv,gcmt20080630061744,duputel200806300617a,iscgem13378936,",
+                "mag": 7,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 309,
+                "place": "South Sandwich Islands region",
+                "rms": 1.36,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1214806663020,
+                "title": "M 7.0 - South Sandwich Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,",
+                "tz": null,
+                "updated": 1478743088043,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gazv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.322,
+                    31.002,
+                    19
+                ],
+                "type": "Point"
+            },
+            "id": "usp000g650",
+            "properties": {
+                "alert": null,
+                "cdi": 9.1,
+                "code": "p000g650",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000g650&format=geojson",
+                "dmin": null,
+                "felt": 1783,
+                "gap": 11.3,
+                "ids": ",us2008ryan,usp000g650,choy20080512062801,gcmtc200805120628a,gcmt20080512062801,duputel200805120628a,atlas20080512062801,iscgem13228121,",
+                "mag": 7.9,
+                "magType": "mwc",
+                "mmi": 9.2,
+                "net": "us",
+                "nst": 774,
+                "place": "eastern Sichuan, China",
+                "rms": 1.2,
+                "sig": 1870,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1210573681570,
+                "title": "M 7.9 - eastern Sichuan, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,general-link,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230086502,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g650"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    158.453,
+                    -55.664,
+                    16
+                ],
+                "type": "Point"
+            },
+            "id": "usp000g3q9",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000g3q9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000g3q9&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 34.9,
+                "ids": ",choy20080412003012,gcmtc200804120030a,usp000g3q9,gcmt20080412003012,duputel200804120030a,iscgem13224811,",
+                "mag": 7.1,
+                "magType": "mwc",
+                "mmi": null,
+                "net": "us",
+                "nst": 541,
+                "place": "Macquarie Island region",
+                "rms": 0.99,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,duputel,iscgem,",
+                "status": "reviewed",
+                "time": 1207960212600,
+                "title": "M 7.1 - Macquarie Island region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,",
+                "tz": null,
+                "updated": 1478742869533,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g3q9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    168.892,
+                    -20.071,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp000g3eq",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000g3eq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000g3eq&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 13.4,
+                "ids": ",choy20080409124612,gcmtc200804091246a,usp000g3eq,gcmt20080409124612,duputel200804091246a,atlas20080409124612,iscgem12942456,",
+                "mag": 7.3,
+                "magType": "mwc",
+                "mmi": 6.2,
+                "net": "us",
+                "nst": 486,
+                "place": "Loyalty Islands, New Caledonia",
+                "rms": 1.29,
+                "sig": 820,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1207745172720,
+                "title": "M 7.3 - Loyalty Islands, New Caledonia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230081290,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g3eq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.467,
+                    35.49,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp000g1w2",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000g1w2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000g1w2&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": 25.9,
+                "ids": ",choy20080320223257,gcmtc200803202233a,usp000g1w2,gcmt20080320223257,duputel200803202233a,atlas20080320223257,iscgem13493073,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": 532,
+                "place": "Xinjiang-Xizang border region",
+                "rms": 1.03,
+                "sig": 798,
+                "sources": ",choy,gcmt,us,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1206052377930,
+                "title": "M 7.2 - Xinjiang-Xizang border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230078925,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g1w2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    99.972,
+                    -2.486,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "usp000fzx4",
+            "properties": {
+                "alert": null,
+                "cdi": 3.6,
+                "code": "p000fzx4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000fzx4&format=geojson",
+                "dmin": null,
+                "felt": 115,
+                "gap": 18.4,
+                "ids": ",usp000fzx4,us2008nwbg,choy20080225083633,gcmtc200802250836a,gcmt20080225083633,duputel200802250836a,atlas20080225083633,iscgem12942353,",
+                "mag": 7.2,
+                "magType": "mwc",
+                "mmi": 7.1,
+                "net": "us",
+                "nst": 505,
+                "place": "Kepulauan Mentawai region, Indonesia",
+                "rms": 1.22,
+                "sig": 839,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1203928593030,
+                "title": "M 7.2 - Kepulauan Mentawai region, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230072574,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fzx4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    95.964,
+                    2.768,
+                    26
+                ],
+                "type": "Point"
+            },
+            "id": "usp000fzau",
+            "properties": {
+                "alert": null,
+                "cdi": 4.2,
+                "code": "p000fzau",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000fzau&format=geojson",
+                "dmin": null,
+                "felt": 206,
+                "gap": 16.4,
+                "ids": ",usp000fzau,us2008nran,choy20080220080830,gcmtc200802200808a,gcmt20080220080830,duputel200802200808a,atlas20080220080830,iscgem13214445,",
+                "mag": 7.4,
+                "magType": "mwc",
+                "mmi": 7.3,
+                "net": "us",
+                "nst": 607,
+                "place": "Simeulue, Indonesia",
+                "rms": 0.97,
+                "sig": 929,
+                "sources": ",us,us,choy,gcmt,gcmt,duputel,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 1203494910520,
+                "title": "M 7.4 - Simeulue, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493230069023,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fzau"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 12,
+        "generated": 1498104062000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2008-1-01&endtime=2008-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

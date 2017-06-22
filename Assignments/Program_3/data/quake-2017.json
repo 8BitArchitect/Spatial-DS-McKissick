@@ -1,0 +1,101 @@
+{
+    "bbox": [
+        122.6171,
+        -6.2464,
+        135,
+        155.1718,
+        4.4782,
+        627.17
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    155.1718,
+                    -6.2464,
+                    135
+                ],
+                "type": "Point"
+            },
+            "id": "us10007uph",
+            "properties": {
+                "alert": "yellow",
+                "cdi": 9.1,
+                "code": "10007uph",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10007uph&format=geojson",
+                "dmin": 3.625,
+                "felt": 30,
+                "gap": 9,
+                "ids": ",pt17022050,us10007uph,at00ok5z6p,",
+                "mag": 7.9,
+                "magType": "mww",
+                "mmi": 8.24,
+                "net": "us",
+                "nst": null,
+                "place": "35km WNW of Panguna, Papua New Guinea",
+                "rms": 1.22,
+                "sig": 987,
+                "sources": ",pt,us,at,",
+                "status": "reviewed",
+                "time": 1485059422960,
+                "title": "M 7.9 - 35km WNW of Panguna, Papua New Guinea",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": 660,
+                "updated": 1492626654040,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007uph"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.6171,
+                    4.4782,
+                    627.17
+                ],
+                "type": "Point"
+            },
+            "id": "us10007s9c",
+            "properties": {
+                "alert": "green",
+                "cdi": 5.9,
+                "code": "10007s9c",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10007s9c&format=geojson",
+                "dmin": 3.813,
+                "felt": 50,
+                "gap": 18,
+                "ids": ",at00ojjvz0,us10007s9c,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 3.33,
+                "net": "us",
+                "nst": null,
+                "place": "189km SSE of Tabiauan, Philippines",
+                "rms": 1.05,
+                "sig": 849,
+                "sources": ",at,us,",
+                "status": "reviewed",
+                "time": 1484028828140,
+                "title": "M 7.3 - 189km SSE of Tabiauan, Philippines",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,geoserve,impact-link,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": 480,
+                "updated": 1494178928352,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007s9c"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 2,
+        "generated": 1498104067000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2017-1-01&endtime=2017-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}
