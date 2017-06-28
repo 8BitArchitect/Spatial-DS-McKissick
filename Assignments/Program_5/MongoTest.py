@@ -8,4 +8,4 @@ db = client.geo
 
 collection = db.airports
 
-pprint(collection.findone())
+pprint(collection.find_one())
