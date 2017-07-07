@@ -1,3 +1,9 @@
+#Benjamin Shelton, Andrew McKissick, Christian Norfleet
+#Spatial Data Structures-Program 6-July 7th, 2017
+#This program opens a geojson file of acts of terrorism around the world and creates a heat
+#map showing the level of severity of terrorist activity in a certain area
+#The heat scale goes from: blue-teal-green-yellow-red from least to most activity respectively
+
 import sys
 import os
 import json
@@ -7,6 +13,7 @@ from pprint import pprint
 
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
 
+#opens the geojson file
 def read_file():
   f = open(DIRPATH + '\globalterrorism.geojson')
 
@@ -19,6 +26,7 @@ def read_file():
 
   return attacks
 
+#fill out a dictionary with all of the points
 def fill_grid(maxx, maxy, points):
   # newpoints = [[0 for i in range(maxy)] for j in range(maxx)]
   newpoints = {}
@@ -31,6 +39,7 @@ def fill_grid(maxx, maxy, points):
 
   return newpoints
 
+#helper function for get_gradient
 def convert_to_rgb(minval, maxval, val, colors):
   EPSILON = sys.float_info.epsilon  # smallest possible difference
 
@@ -43,6 +52,7 @@ def convert_to_rgb(minval, maxval, val, colors):
     (r1, g1, b1), (r2, g2, b2) = colors[i], colors[i+1]
     return int(r1 + f*(r2-r1)), int(g1 + f*(g2-g1)), int(b1 + f*(b2-b1))
 
+#determines a scale for the colors based on how many acts of terrorism occured
 def get_gradient(minval, maxval, steps, colors):
   gradient = []
 
@@ -54,6 +64,7 @@ def get_gradient(minval, maxval, steps, colors):
 
   return gradient
 
+#gets the min and max points of a list
 def get_minmax(points):
   minval = None
   maxval = None
@@ -67,6 +78,7 @@ def get_minmax(points):
 
   return minval, maxval
 
+#this was for fun
 def fuzz_grid(grid):
   return
 
@@ -85,6 +97,7 @@ if __name__ == '__main__':
 
   pprint(gradient)
 
+  #display background image
   screen = pygame.display.set_mode((width, height))
   pygame.display.set_caption('Global Terrorism')
   bg = pygame.image.load("blankmap-equirectangular-large.png")
