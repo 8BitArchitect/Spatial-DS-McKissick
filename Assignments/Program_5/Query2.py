@@ -29,18 +29,19 @@ def point_query(radius, lon, lat):
             results[key].append(tuple(item['geometry']['coordinates']))
     return results
 
-def filtered_querey(radius, lon, lat, collection, field, field_value, minmax, max_results):
+def filtered_query(radius, lon, lat, collection, field, field_value, minmax, max_results):
     results = {'volcanoes': [], 'earthquakes': [], 'meteorites': []}
     point = (lon, lat)
     temp = mh.get_features_near_me(collection, point, radius)
     if minmax.lower() == 'min':
-        gen = (x for x in temp if x['properties'][field] > float(field_value))
+        gen = (x for x in temp if float(x['properties'][field]) > float(field_value))
     elif minmax.lower() == 'max':
-        gen = (x for x in temp if x['properties'][field] < float(field_value))
+        gen = (x for x in temp if float(x['properties'][field]) < float(field_value))
     else:
         gen = (x for x in temp if x['properties'][field] == field_value)
     for item in gen:
-        results[collection].append(tuple(item['geometry']['coordinates']))
+        if not item['properties'][field] == None:
+            results[collection].append(tuple(item['geometry']['coordinates']))
 
     if not max_results == 0:
         results[collection] = results[collection][:max_results]
@@ -79,7 +80,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     if not feature == None:
-        func = filtered_querey
+        func = filtered_query
         if not feature in fields:
             print("ERROR: Unexpected feature value. Expected volcanoes, earthquakes, or meteorites and got " + feature)
             sys.exit(1)
@@ -95,7 +96,7 @@ if __name__ == "__main__":
     screen.blit(bg, (0, 0))
 
     if not lon == None:
-        points = func(radius,lon,lat)
+        points = func(radius, lon, lat, feature, field, field_value, minmax, max_results)
 
         for point in points['volcanoes']:
             screen.set_at((lonlat_to_xy(point[0], point[1], width, height)),(255, 0, 0))
